@@ -1,8 +1,8 @@
-## Hello, World
+## Hello, World!
 
-Меня зовут **Алмаз**, мне 14 лет, я php-разработчик.
+Меня зовут **Алмаз**, мне 14 лет, я начинающий php-разработчик.
 
-Опыт разработки на php: 1.5 года, Laravel: 1 год.
+Имею опыт разработки на 1.5 года на PHP и 1 год на Laravel.
 
 
 
@@ -29,6 +29,8 @@
 # Фреймворки:
 
 # ![Laravel](https://img.shields.io/badge/Laravel-12.x-red?logo=laravel&logoColor=white)
+# ![Echo](https://img.shields.io/badge/web--framework-echo-blue?logo=go)
+
 
 
 # Базы данных:
@@ -44,7 +46,7 @@
 [![Apache](https://img.shields.io/badge/Apache-%233D4A48.svg?logo=apache&logoColor=fff)](#)
 
 
-# Контейнерезация:
+# Контейнеризация:
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
